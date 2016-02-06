@@ -1,7 +1,7 @@
 # Version: 0.0.1
 
 FROM erben22/rpi-rtlsdr-base
-MAINTAINER R. Cody Erben "erben22@mtnaircomputer.net"
+MAINTAINER R. Cody Erben
 ENV REFRESHED_AT 2016-02-05
 
 # Expose the well-known-ish rtl_tcp port of 1234, and then
